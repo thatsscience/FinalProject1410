@@ -13,8 +13,11 @@ DUNGEON DANGER
 
 
 <i class="icon-code"></i> Programmers: [SpencerIsaacson](https://github.com/SpencerIsaacson) & [thatsscience](https://github.com/thatsscience)
+<br/>
 <i class="icon-picture"></i>Graphics: [thatsscience](https://github.com/thatsscience)
+<br/>
 <i class="icon-music"></i>Audio: [SpencerIsaacson](https://github.com/SpencerIsaacson)
+<br/>
 <i class="icon-plus-squared"></i>*Additional Resources:* [spriters-resource](http://www.spriters-resource.com/), [sounddogs](http://www.sounddogs.com/)
 
 
@@ -23,10 +26,15 @@ DUNGEON DANGER
 
 **HOW TO:<i class="icon-help"></i>**
 > Download and Install Eclipse :  [here](http://eclipse.org/downloads/)
+<br/>
 > Download or clone github repo : [here](https://github.com/CSIS1410NateSpencer/CSIS1410Final)
+<br/>
 > Import project into Package Explorer : [how to instructions](http://agile.csc.ncsu.edu/SEMaterials/tutorials/import_export/)
+<br/>
 > Navigate to Game.java : CSIS1410Final > src > finalProject > Game.java
+<br/>
 > Compile and Run :  [how to instructions (step1 only)](http://pages.cs.wisc.edu/~cs302/labs/EclipseTutorial/Step_04.html)
+<br/>
 > **Enjoy!**
 
 ----------
@@ -34,10 +42,15 @@ DUNGEON DANGER
 ----------
 
 **UP** - move up
+<br/>
 **DOWN** - move down
+<br/>
 **LEFT** - move left
+<br/>
 **RIGHT** - move right
+<br/>
 **SpaceBar** - attack
+<br/>
 
 
 ----------
@@ -92,8 +105,11 @@ DUNGEON DANGER
 
 
 >**Inspired By:**
+<br/>
 [Eitr The Game](http://eitrthegame.com/)
+<br/>
 [Dark Souls](http://www.darksoulsii.com/us/)
+<br/>
 Cool games. Check them out!
 
 
